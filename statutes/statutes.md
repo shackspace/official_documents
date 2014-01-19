@@ -51,11 +51,14 @@ vollzogen.
 e) Die Mitgliederversammlung kann solche Personen, die sich besondere Ver- dienste um den Verein oder
 um die von ihm verfolgten satzungsgemässen Zwecke erworben haben, zu Ehrenmitgliedern ernennen.
 Ehrenmitglieder haben alle Rechte eines ordentlichen Mitglieds. Sie sind von Beitragsleis- tungen befreit.
-§4 Rechte und Pflichten der Mitglieder
+
+## §4 Rechte und Pflichten der Mitglieder
 a) Die Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zunehmen.
 b) Die Mitglieder sind verpflichtet, die satzungsgemässen Zwecke des Vereins zu unterstützen und zu
 fördern. Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
-§5 Ausschluss eines Mitglieds Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden,
+
+## §5 Ausschluss eines Mitglieds
+Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden,
 wenn es das Ansehen des Vereins schädigt, seinen Beitragsverpflichtungen nicht nach- kommt oder wenn
 ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschliessenden Mitglied den Beschluss
 in schriftlicher Form unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
