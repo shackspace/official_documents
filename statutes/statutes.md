@@ -144,5 +144,6 @@ ihrer Prüfung setzen sie den Vorstand von
 ihrem Prüfungsergebnis in Kenntnis und erstatten der Mitgliederversammlung Bericht.
 b) Die Finanzprüfer dürfen dem Vorstand nicht angehören.
 
-## §12 Auflösung des Vereins Bei der Auflösung des Vereins oder bei Wegfall seines Zweckes fällt das
+## §12 Auflösung des Vereins
+Bei der Auflösung des Vereins oder bei Wegfall seines Zweckes fällt das
 Vermögen an ”Entropia e.V.” ,Steinstrasse 23, 76133 Karlsruhe.
