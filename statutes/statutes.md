@@ -1,13 +1,11 @@
-shack e.V.
-VEREINSSATZUNG v1.1
-Präambel Die Informationsgesellschaft unserer Tage ist ohne Computer (dazu gehören auch alle Arten von
-mobilen oder embedded Systemen) und Internet nicht mehr denkbar. Mit steigender Komplexität der
-Technologien steigen die Anforderungen an den Nutzer sich in einer durch Informationstechnologie und ihrer
-Prozesse verändernden Zeit selbstbestimmt und kompetent zu bewegen.
-§1 Name, Sitz, Geschäftsjahr Der Verein führt den Namen ”shack”. Der Verein wird in das Vereinsregister
-eingetragen und dann um den Zusatz ,”e.V.” ergänzt. Der Verein hat seinen Sitz in Stuttgart. Das
-Geschäftsjahr beginnt am 1. März jeden Kalenderjahres.
-§2 Zweck und Gemeinnnützigkeit
+# Satzung des shack e.V.
+## Präambel
+Die Informationsgesellschaft unserer Tage ist ohne Computer (dazu gehören auch alle Arten von mobilen oder embedded Systemen) und Internet nicht mehr denkbar. Mit steigender Komplexität der Technologien steigen die Anforderungen an den Nutzer sich in einer durch Informationstechnologie und ihrer Prozesse verändernden Zeit selbstbestimmt und kompetent zu bewegen.
+
+## §1 Name, Sitz, Geschäftsjahr
+Der Verein führt den Namen ”shack”. Der Verein wird in das Vereinsregister eingetragen und dann um den Zusatz ,”e.V.” ergänzt. Der Verein hat seinen Sitz in Stuttgart. Das Geschäftsjahr beginnt am 1. März jeden Kalenderjahres.
+
+## §2 Zweck und Gemeinnnützigkeit
 a) Der Verein ist politisch und religiös neutral und Dritten gegenüber ungebunden.
 b) Der Verein verfolgt ausschliesslich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts
 ”Steuerbegünstigte Zwecke” der Abgabenordnung.
@@ -38,7 +36,8 @@ ltnismä
 ßig hohe Vergütung begünstigt werden. Jeder Beschluss
 über die Änderung der Satzung ist vor dessen Anmeldung beim Registergericht dem zuständigen Finanzamt
 vorzulegen.
-§3 Mitgliedschaft
+
+## §3 Mitgliedschaft
 a) Ordentliche Vereinsmitglieder können natürliche und juristische Personen, Handelsgesellschaften,
 rechtsfähige Vereine sowie Anstalten und Körperschaften des öffentlichen Rechts werden.
 b) Die Beitrittserklärung erfolgt schriftlich oder fernschriftlich gegenüber dem Vorstand. über die Annahme der
@@ -49,12 +48,6 @@ Auflösung und Erlöschung von juristischen Personen sowie sonstigen Zusammensch
 Ausschluss; die Beitragspflicht für das laufende Geschäftsjahr bleibt hiervon unberührt.
 d) Der Austritt wird durch schriftliche oder fernschriftliche Willenserklärung gegenüber dem Vorstand
 vollzogen.
-̈
-̈
-̈
-̈
-̈
-̈
 e) Die Mitgliederversammlung kann solche Personen, die sich besondere Ver- dienste um den Verein oder
 um die von ihm verfolgten satzungsgemässen Zwecke erworben haben, zu Ehrenmitgliedern ernennen.
 Ehrenmitglieder haben alle Rechte eines ordentlichen Mitglieds. Sie sind von Beitragsleis- tungen befreit.
@@ -68,20 +61,23 @@ ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem auszuschliessenden
 in schriftlicher Form unter Angabe von Gründen mitteilen und ihm auf Verlangen eine Anhörung gewähren.
 Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung zu- lässig. Bis zum
 Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
-§6 Beitrag
+
+## §6 Beitrag
 Der Verein hat einen Aufnahme- und Jahresbeitrag. Er ist bei der Aufnahme und für das laufende
 Geschäftsjahr zu zahlen, bzw. bei laufender Mitgliedschaft am Beginn des Geschäftsjahres zu entrichten.
 Das Nähere regelt eine Beitragsordnung, die von der Mitgliederversammlung beschlossen wird. Im
 begründeten Einzelfall kann für ein Mitglied durch Vorstandsbeschluss ein von der Beitrag- sordnung
 abweichender Beitrag festgesetzt werden.
-§7 Die Organe des Vereins sind:
+
+## §7 Die Organe des Vereins
 a)
 Die Mitgliederversammlung
 b)
 b) Der Vorstand
 c)
 c) Der wissenschaftliche Beirat
-§8 Mitgliederversammlung
+
+## §8 Mitgliederversammlung
 a) Oberstes Beschlussorgan ist die Mitgliederversammlung. Ihrer Beschlussfassung unterliegen:
 i. Die Genehmigung des Finanzberichtes, ii. Die Entlastung des Vorstandes,
 iii. Die Wahl der einzelnen Vorstandsmitglieder, iv. Die Bestellung von Finanzprüfern,
@@ -109,7 +105,8 @@ f) Auf Antrag eines Mitglieds ist geheim abzustimmen. über die Beschlüsse der 
 Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das Pro-
 tokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen
 zu lassen.
-§9 Vorstand
+
+## §9 Vorstand
 a) Der Vorstand besteht aus einem Vorsitzenden (“1. Vorstand”), einem Schatzmeister (“Kassenwart”) und
 einem Schriftführer. Es können zwei stellvertretende Vorsitzende (“stellvertretender Vorstand”) und zwei
 weitere Beisitzer gewählt werden.
@@ -133,17 +130,16 @@ Belang den Finanzprüfern des Vereins zur Prüfung zur Verfügung.
 h) Die Vorstandsmitglieder sind grundsätzlich ehrenamtlich tätig; sie haben Anspruch auf Erstattung
 notwendiger Auslagen im Rahmen einer von der Mitgliederversammlung zu beschliessenden Richtlinie über
 die Erstattung von Reisekosten und Auslagen.
-§10 Der wissenschaftliche Beirat Der Vorstand kann einen ”Wissenschaftlichen Beirat” einrichten, der für den
+
+## §10 Der wissenschaftliche Beirat
+Der Vorstand kann einen ”Wissenschaftlichen Beirat” einrichten, der für den
 Verein beratend und unterstützend tätig wird; in den Beirat können auch Nicht- Mitglieder berufen werden.
-§11 Finanzprüfer
+
+## §11 Finanzprüfer
 a) Zur Kontrolle der Haushaltsführung bestellt die Mitgliederversammlung Finanzprüfer. Nach Durchführung
 ihrer Prüfung setzen sie den Vorstand von
 ihrem Prüfungsergebnis in Kenntnis und erstatten der Mitgliederversammlung Bericht.
 b) Die Finanzprüfer dürfen dem Vorstand nicht angehören.
-§12 Auflösung des Vereins Bei der Auflösung des Vereins oder bei Wegfall seines Zweckes fällt das
-Vermögen an ”Entropia e.V.” ,Steinstrasse 23, 76133 Karlsruhe.
-Stand 20.04.2010
-̈
-̈
-̈
 
+## §12 Auflösung des Vereins Bei der Auflösung des Vereins oder bei Wegfall seines Zweckes fällt das
+Vermögen an ”Entropia e.V.” ,Steinstrasse 23, 76133 Karlsruhe.
