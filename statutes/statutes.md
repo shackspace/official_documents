@@ -19,13 +19,9 @@ c) Zwecke des Vereins sind die Förderung von Informatik- und Medienkompetenz vo
 Durch die genannten Zwecke soll die Volks-, Jugend- und Erwachsenenbildung gefördert werden.  
   
 d) Der Satzungszweck wird insbesondere verwirklicht durch:  
-  
 i. Informationsveranstaltungen, Öffentlichkeitsarbeit, Arbeitskreise, sowie Förderung des schöpferisch-kritischen Umgangs mit Informations- und Kommunikationstechnologien.  
-  
 ii. Vorbereitung, Durchführung oder Förderung von Bildungs- und Kulturveranstaltungen (Kurse, Seminare, Workshops usw.) zur allgemeinen Erwachsenen- und Berufsbildung.  
-  
 iii. Jugendbetreuung und -förderung durch Vermittlung von Kenntnissen und Fertigkeiten aus dem Bereich der Informations- und Kommunikationstechnik im Rahmen von Gruppenarbeit. Insbesondere sollen Kooperationen mit anderen Jugendvereinen in der Region Stuttgart angestrebt werden.  
-  
 iv. Dialog und Kooperation mit technischen und kulturellen Einrichtungen vor allem der Früherziehung, Bildung, Weiterbildung und Praxis.  
   
 e) Die Körperschaft ist selbstlos tätig.  
@@ -86,7 +82,9 @@ Im begründeten Einzelfall kann für ein Mitglied durch Vorstandsbeschluss ein v
 ## §7 Die Organe des Vereins
 
 a) Die Mitgliederversammlung  
+  
 b) Der Vorstand  
+  
 c) Der wissenschaftliche Beirat
 
 ## §8 Mitgliederversammlung
