@@ -7,7 +7,7 @@ Die Informationsgesellschaft unserer Tage ist ohne Computer (dazu gehören auch 
 
 Der Verein führt den Namen ”shack”. Der Verein wird in das Vereinsregister eingetragen und dann um den Zusatz ”e.V.” ergänzt.  
 Der Verein hat seinen Sitz in Stuttgart.  
-Das Geschäftsjahr beginnt am 1. März jeden Kalenderjahres.
+Das Geschäftsjahr beginnt am 1. Januar jeden Kalenderjahres.
 
 ## §2 Zweck und Gemeinnnützigkeit
 
