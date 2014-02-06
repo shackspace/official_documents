@@ -15,7 +15,8 @@ a) Der Verein ist politisch und religiös neutral und Dritten gegenüber ungebun
   
 b) Der Verein verfolgt ausschliesslich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts ”Steuerbegünstigte Zwecke” der Abgabenordnung.
   
-c) Zwecke des Vereins sind die Förderung von Informatik- und Medienkompetenz von Jugendlichen und Erwachsenen, sowie die Aufklärung über Techniken, Risiken, Gefahren und Möglichkeiten der Medien, sowie die Wahrung der Menschenrechte. Darüber hinaus ist er ein Forum für künstlerisch-kritischen Umgang mit Medien- und Computerkultur. Durch die genannten Zwecke soll die Volks-, Jugend- und Erwachsenenbildung gefördert werden.  
+c) Zwecke des Vereins sind die Förderung von Informatik- und Medienkompetenz von Jugendlichen und Erwachsenen, sowie die Aufklärung über Techniken, Risiken, Gefahren und Möglichkeiten der Medien, sowie die Wahrung der Menschenrechte. Darüber hinaus ist er ein Forum für künstlerisch-kritischen Umgang mit Medien- und Computerkultur.  
+Durch die genannten Zwecke soll die Volks-, Jugend- und Erwachsenenbildung gefördert werden.  
   
 d) Der Satzungszweck wird insbesondere verwirklicht durch:  
   
@@ -109,7 +110,8 @@ e) Jedes Mitglied hat eine Stimme.
 Juristische Personen haben einen Stimmberechtigten schriftlich zu bestellen.  
   
 f) Auf Antrag eines Mitglieds ist geheim abzustimmen.  
-Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
+Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist.  
+Das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
 
 ## §9 Vorstand
 
