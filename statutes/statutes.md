@@ -43,14 +43,21 @@ b) Die Beitrittserklärung erfolgt schriftlich oder fernschriftlich gegenüber d
 Über die Annahme der Beitrittserklärung entscheidet der Vorstand.  
 Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.  
   
-c) Die Mitgliedschaft endet durch Austrittserklärung, durch den Tod von natürlichen Personen oder durch Auflösung und Erlöschung von juristischen Personen, sowie sonstigen Zusammenschlüssen oder durch Ausschluss.  
-Die Beitragspflicht für das laufende Geschäftsjahr bleibt hiervon unberührt.  
+c) Die Mitgliedschaft endet durch:  
+i. Austritt  
+ii. den Tod von natürlichen Personen  
+iii. Auflösung und Erlöschung von juristischen Personen  
+iv. Ausschluss
   
-d) Der Austritt wird durch schriftliche oder fernschriftliche Willenserklärung gegenüber dem Vorstand vollzogen.  
+d) Der Austritt erfolgt unter Einhaltung einer Kündigungsfrist gemäß Beitragsordnung durch schriftliche oder fernschriftliche Willenserklärung gegenüber dem Vorstand.
   
 e) Die Mitgliederversammlung kann solche Personen, die sich besondere Verdienste um den Verein oder um die von ihm verfolgten satzungsgemäßen Zwecke erworben haben, zu Ehrenmitgliedern ernennen.  
 Ehrenmitglieder haben alle Rechte eines ordentlichen Mitglieds.  
 Sie sind von Beitragsleistungen befreit.
+
+f) Neben der aktiven (regulären) Mitgliedschaft ist eine passive Mitgliedschaft möglich.  
+Diese entspricht der regulären Mitgliedschaft mit der Ausnahme, dass passive Mitglieder kein Stimmrecht inne haben.  
+Andere Rechte und Pflichten bleiben hiervon unberührt.  
 
 ## §4 Rechte und Pflichten der Mitglieder
 
@@ -58,6 +65,10 @@ a) Die Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zunehm
   
 b) Die Mitglieder sind verpflichtet, die satzungsgemäßen Zwecke des Vereins zu unterstützen und zu fördern.  
 Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
+
+c) Ein Beitragsrückstand von drei (3) Monaten führt automatisch zum Wechsel der Mitgliedschaft in den Status der passiven Mitgliedschaft.  
+  
+d) Mitglieder die durch Beitragsrückstand in die passiven Mitgliedschaft gewechselt wurden, werden nach Begleichen der ausstehenden Beitragszahlungen wieder als reguläre Mitglieder geführt
 
 ## §5 Ausschluss eines Mitglieds
 
@@ -68,9 +79,8 @@ Bis zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft.
 
 ## §6 Beitrag
 
-Der Verein hat einen Aufnahme- und Jahresbeitrag.  
-Er ist bei der Aufnahme und für das laufende Geschäftsjahr zu zahlen, bzw. bei laufender Mitgliedschaft am Beginn des Geschäftsjahres zu entrichten.  
-Das Nähere regelt eine Beitragsordnung, die von der Mitgliederversammlung beschlossen wird.  
+Der Verein erhebt Beiträge.  
+Das nähere regelt eine Beitragsordnung, die von der Mitgliederversammlung beschlossen wird.  
 Im begründeten Einzelfall kann für ein Mitglied durch Vorstandsbeschluss ein von der Beitragsordnung abweichender Beitrag festgesetzt werden.
 
 ## §7 Die Organe des Vereins
@@ -100,16 +110,21 @@ Hierbei sind die Tagesordnung bekanntzugeben und die nötigen Informationen zug�
 Anträge zur Tagesordnung sind mindestens drei Tage vor der Mitgliederversammlung bei der Geschäftsstelle einzureichen.  
 Über die Behandlung von Initiativanträgen entscheidet die Mitgliederversammlung.  
   
-c) Die Mitgliederversammlung ist beschlussfähig wenn mindestens fünfzehn Prozent aller Mitglieder anwesend sind.  
+c) Die Mitgliederversammlung ist beschlussfähig wenn mindestens fünfzehn Prozent aller Mitglieder anwesend sind oder durch Vollmacht vertreten sind.  
 Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit vor der Beschlussfassung nicht angezweifelt worden ist.  
   
-d) Beschlüsse über Satzungsänderungen und über die Auflösung des Vereins bedürfen zu ihrer Rechtswirksamkeit der Dreiviertelmehrheit der anwesenden Mitglieder.  
+d) Beschlüsse über Satzungsänderungen und über die Auflösung des Vereins bedürfen zu ihrer Rechtswirksamkeit der Dreiviertelmehrheit der anwesenden Mitglieder bzw. durch Vollmacht vertretenen Mitglieder.  
 In allen anderen Fällen genügt die einfache Mehrheit.  
   
 e) Jedes Mitglied hat eine Stimme.  
 Juristische Personen haben einen Stimmberechtigten schriftlich zu bestellen.  
   
-f) Auf Antrag eines Mitglieds ist geheim abzustimmen.  
+f) Jedes ordentliche Mitglied kann sich durch ein anderes, anwesendes ordentliches Mitglied vertreten lassen.  
+Jedes anwesende ordentliche Mitglied kann, zusätzlich zu seiner eigenen Stimme, die Stimme maximal eines weiteren ordentlichen Mitglieds in Vertretung übernehmen.  
+Die Vollmacht bedarf der Schriftform und muss dem Versammlungsleiter übergeben werden.  
+Eine Einschränkung der Vollmacht durch den Bevollmächtigenden ist nicht möglich.  
+  
+g) Auf Antrag eines Mitglieds ist geheim abzustimmen.  
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist.  
 Das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
 
