@@ -6,7 +6,7 @@ Voted 2013-12-18 (OMV)
 * Jan Vanvinkenroye (Vorsitzender) java@shackspace.de
 * David Mändlen (Kassenwart)
 * Gregor Jehle (Schriftführer) hadez@shackspace.de GPG 8990 5C07 8904 D459 4AB0 40DE E6EF 3BB1 79C0 B8E5
-* Moritz Frenzel (Beisitzer) momo@shackspace.de
+* Moritz Frenzel (Beisitzer) momo@shackspace.de [PGP:0x1F4BB9B9](http://pgp.mit.edu:11371/pks/lookup?op=vindex&search=0x1F4BB9B9)
 * Sascha Kaupp (Beisitzer)
 
 # Previous Members of the Board
