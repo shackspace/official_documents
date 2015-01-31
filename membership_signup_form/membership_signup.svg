@@ -24,11 +24,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="967.89079"
-     inkscape:cy="658.98888"
+     inkscape:zoom="1.4"
+     inkscape:cx="431.91789"
+     inkscape:cy="504.21566"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3923"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -484,7 +484,7 @@
            y="-41.027351"
            x="400.37839"
            id="tspan4565"
-           sodipodi:role="line">shack beitrittserklärung v4 2015-01-31</tspan></text>
+           sodipodi:role="line">shack beitrittserklärung v4.1 2015-01-32</tspan></text>
       <text
          sodipodi:linespacing="111%"
          id="text4674"
@@ -1217,13 +1217,13 @@
                style="font-size:12px;line-height:115.99999666%"
                y="482.89548"
                x="415.4476"
-               sodipodi:role="line">inhaber: shack e.v.</tspan><tspan
-               dx="0 0 0 0 0 0 20.70812"
+               sodipodi:role="line">inhaber: shack e.V.</tspan><tspan
+               dx="0 0 0 0 0 0 20.708124"
                style="font-size:12px;line-height:115.99999666%"
                id="tspan4686"
                y="496.81546"
                x="415.4476"
-               sodipodi:role="line">iban: de44430609677016809500</tspan><tspan
+               sodipodi:role="line">iban: DE44 4306 0967 7016 8095 00</tspan><tspan
                dx="0 0 0 0 0 27.779177"
                style="font-size:12px;line-height:115.99999666%"
                id="tspan4688"
@@ -1342,7 +1342,7 @@
                style="font-size:12px;line-height:111.00000143%"
                y="691.82654"
                x="191.42857"
-               sodipodi:role="line">        shack e.v., ulmer straße 255, 70327 stuttgart</tspan><tspan
+               sodipodi:role="line">        shack e.V., ulmer straße 255, 70327 stuttgart</tspan><tspan
                style="font-size:12px;line-height:111.00000143%"
                id="tspan4621"
                y="705.14655"
@@ -1467,7 +1467,7 @@
                    sodipodi:role="line"
                    y="839.48785"
                    x="191.42863"
-                   style="font-size:9px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Expressway;-inkscape-font-specification:Expressway">vollständiger name</tspan>
+                   style="font-size:9px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Expressway;-inkscape-font-specification:Expressway">vollständiger name des kontoinhabers</tspan>
               </text>
               <g
                  transform="matrix(3.8338202,0,0,1.25,-345.30621,584.12566)"
@@ -1597,7 +1597,7 @@
                    y="942.98376"
                    x="199.62206"
                    id="tspan4543"
-                   sodipodi:role="line">de _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _</tspan></text>
+                   sodipodi:role="line">D E _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _</tspan></text>
             </g>
             <g
                id="g5969"
@@ -1617,9 +1617,9 @@
                   <tspan
                      id="tspan5626"
                      sodipodi:role="line"
-                     y="914.48785"
-                     x="191.42857 195.92857 198.42155 201.41856 206.43156 211.92155 216.93456 219.41856 222.42455 224.91759 229.92155 234.93456 239.93858 244.43858 249.45152 254.45555 261.96152 269.46753 274.48053"
-                     style="font-size:9px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Expressway;-inkscape-font-specification:Expressway">straße - hausnummer</tspan>
+                     style="font-size:9px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Expressway;-inkscape-font-specification:Expressway"
+                     x="191.42857"
+                     y="914.48785">institut</tspan>
                 </text>
                 <g
                    transform="matrix(1.25,0,0,1.25,16.428626,604.12566)"
