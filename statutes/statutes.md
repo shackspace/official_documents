@@ -46,12 +46,8 @@ iii. Auflösung und Erlöschung von juristischen Personen
 iv. Ausschluss
   
 d) Der Austritt erfolgt unter Einhaltung einer Kündigungsfrist gemäß Beitragsordnung durch schriftliche oder fernschriftliche Willenserklärung gegenüber dem Vorstand.
-  
-e) Die Mitgliederversammlung kann solche Personen, die sich besondere Verdienste um den Verein oder um die von ihm verfolgten satzungsgemäßen Zwecke erworben haben, zu Ehrenmitgliedern ernennen.  
-Ehrenmitglieder haben alle Rechte eines ordentlichen Mitglieds.  
-Sie sind von Beitragsleistungen befreit.
 
-f) Neben der aktiven (regulären) Mitgliedschaft ist eine passive Mitgliedschaft möglich.  
+e) Neben der aktiven (regulären) Mitgliedschaft ist eine passive Mitgliedschaft möglich.  
 Diese entspricht der regulären Mitgliedschaft mit der Ausnahme, dass passive Mitglieder kein Stimmrecht inne haben.  
 Andere Rechte und Pflichten bleiben hiervon unberührt.  
 
