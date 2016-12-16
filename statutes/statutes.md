@@ -158,4 +158,4 @@ b) Die Finanzprüfer dürfen dem Vorstand nicht angehören.
 
 ## §12 Auflösung des Vereins
 
-Bei der Auflösung des Vereins oder bei Wegfall seines Zweckes fällt das Vermögen an ”Entropia e.V.”, Steinstrasse 23, 76133 Karlsruhe.
+Bei  der Auflösung  oder Aufhebung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an den - ”Entropia e.V.”, Steinstrasse 23, 76133 Karlsruhe - der es unmittelbar und ausschließlich für gemeinnützige oder mildtätige Zwecke zu verwenden hat.      
