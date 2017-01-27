@@ -4,7 +4,7 @@
 Voted 2017-01-26 (AMV)
 
 * Moritz Frenzel (Vorsitzender) momo@shackspace.de
-* Tobias Kunze (Kassenwart) - rixx@shackspace.de
+* Tobias Kunze (Kassenwart) rixx@shackspace.de
 * Hanno Wagner (Schriftführer) 
 * Andreas Madsack (Beisitzer)
 * Joachim Fenkes (Beisitzer)
