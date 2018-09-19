@@ -1,15 +1,24 @@
 # shack e.V. Members of The Board
 
 # Current Members of the Board
-Voted 2017-01-26 (AMV)
+
+2018-09-19 -
+
+* Philipp Grosser (Vorsitzender)
+* Ulrich Escher (Kassenwart)
+* Glenn Keßler (Schriftführer)
+* Dennis Rautenberg (Stellvertretender Vorsitzender)
+* Joachim Ernst (Stellvertretender Vorsitzender)
+
+# Previous Members of the Board
+
+## 2017-01-26 - 2018-09-19
 
 * Moritz Frenzel (Vorsitzender) momo@shackspace.de
 * Tobias Kunze (Kassenwart) rixx@shackspace.de
 * Hanno Wagner (Schriftführer) 
 * Andreas Madsack (Beisitzer)
 * Joachim Fenkes (Beisitzer)
-
-# Previous Members of the Board
 
 ## 2015-12-17 - 2017-01-26
 
