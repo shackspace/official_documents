@@ -5,7 +5,7 @@
 2020-11-08 -
 
 * Felix Queißner (Vorsitzender)
-* Karlo Barta (Schatzmeister)
+* Karlo Bartha (Schatzmeister)
 * Christoph Ziegler (Schriftführer)
 
 # Previous Members of the Board
