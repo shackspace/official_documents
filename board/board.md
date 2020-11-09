@@ -2,15 +2,21 @@
 
 # Current Members of the Board
 
-2018-09-19 -
+2020-11-08 -
+
+* Felix Queißner (Vorsitzender)
+* Karlo Barta (Schatzmeister)
+* Christoph Ziegler (Schriftführer)
+
+# Previous Members of the Board
+
+## 2018-09-19 - 2020-11-08
 
 * Philipp Grosser (Vorsitzender)
-* Ulrich Escher (Kassenwart)
+* Ulrich Escher (Schatzmeister)
 * Glenn Keßler (Schriftführer)
 * Dennis Rautenberg (Stellvertretender Vorsitzender)
 * Joachim Ernst (Stellvertretender Vorsitzender)
-
-# Previous Members of the Board
 
 ## 2017-01-26 - 2018-09-19
 
