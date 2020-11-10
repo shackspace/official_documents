@@ -103,6 +103,7 @@ vii. Die Richtlinie über die Erstattung von Reisekosten und Auslagen
 viii. Anträge des Vorstandes und der Mitglieder  
 ix. Die Ernennung von Ehrenmitgliedern.  
 x. Die Auflösung des Vereins.  
+xi. Die Genehmigung einer Geschäftsordnung
   
 b) Die ordentliche Mitgliederversammlung findet alle zwei Jahre statt.  
 Ausserordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern, oder wenn mindestens zehn Mitglieder dies unter Angabe des Zwecks schriftlich oder fernschriftlich beantragen.  
