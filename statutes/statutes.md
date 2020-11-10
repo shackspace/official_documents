@@ -106,11 +106,11 @@ x. Die Auflösung des Vereins.
 xi. Die Genehmigung einer Geschäftsordnung
   
 b) Die ordentliche Mitgliederversammlung findet alle zwei Jahre statt.  
-Ausserordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern, oder wenn mindestens zehn Mitglieder dies unter Angabe des Zwecks schriftlich oder fernschriftlich beantragen.  
-Die Einberufung der Mitgliederversammlung erfolgt schriftlich oder fernschriftlich durch den Vorstand mit einer Frist von mindestens zwei Wochen.  
+Ausserordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes abgehalten, wenn die Interessen des Vereins dies erfordern, oder wenn mindestens zehn Mitglieder dies unter Angabe des Zwecks in Textform beantragen.  
+Die Einberufung der Mitgliederversammlung erfolgt in Textform durch den Vorstand mit einer Frist von mindestens zwei Wochen.  
 Hierbei sind die Tagesordnung bekanntzugeben und die nötigen Informationen zugänglich zu machen.  
 Anträge zur Tagesordnung sind mindestens drei Tage vor der Mitgliederversammlung bei der Geschäftsstelle einzureichen.  
-Über die Behandlung von Initiativanträgen entscheidet die Mitgliederversammlung.  
+Über die Behandlung von Initiativanträgen entscheidet die Mitgliederversammlung.
   
 c) Die Mitgliederversammlung ist beschlussfähig wenn mindestens fünfzehn Prozent aller Mitglieder anwesend sind oder durch Vollmacht vertreten sind.  
 Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit vor der Beschlussfassung nicht angezweifelt worden ist.  
