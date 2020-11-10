@@ -35,9 +35,9 @@ Jeder Beschluss über die Änderung der Satzung ist vor dessen Anmeldung beim Re
 
 a) Ordentliche Vereinsmitglieder können natürliche und juristische Personen, Handelsgesellschaften, rechtsfähige Vereine sowie Anstalten und Körperschaften des öffentlichen Rechts werden.  
   
-b) Die Beitrittserklärung erfolgt schriftlich oder fernschriftlich gegenüber dem Vorstand.  
+b) Die Beitrittserklärung erfolgt in Textform gegenüber dem Vorstand.  
 Über die Annahme der Beitrittserklärung entscheidet der Vorstand.  
-Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.  
+Die Mitgliedschaft beginnt mit der Annahme der Beitrittserklärung.
   
 c) Die Mitgliedschaft endet durch:  
 i. Austritt  
@@ -45,7 +45,7 @@ ii. den Tod von natürlichen Personen
 iii. Auflösung und Erlöschung von juristischen Personen  
 iv. Ausschluss
   
-d) Der Austritt erfolgt unter Einhaltung einer Kündigungsfrist gemäß Beitragsordnung durch schriftliche oder fernschriftliche Willenserklärung gegenüber dem Vorstand.
+d) Der Austritt erfolgt unter Einhaltung einer Kündigungsfrist gemäß Beitragsordnung durch Willenserklärung in Textform gegenüber dem Vorstand.
 
 e) Neben der aktiven (regulären) Mitgliedschaft ist eine passive Mitgliedschaft möglich.  
 Diese entspricht der regulären Mitgliedschaft mit der Ausnahme, dass passive Mitglieder kein Stimmrecht inne haben.  
