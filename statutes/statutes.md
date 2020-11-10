@@ -130,6 +130,9 @@ g) Auf Antrag eines Mitglieds ist geheim abzustimmen.
 Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist.  
 Das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
 
+h) Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen.
+Diese Satzungsänderungen müssen allen Vereinsmitgliedern alsbald schriftlich mitgeteilt werden.
+
 ## §9 Vorstand
 
 a) Der Vorstand besteht aus einem Vorsitzenden (“1. Vorstand”), einem Schatzmeister (“Kassenwart”) und einem Schriftführer.  
