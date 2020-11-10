@@ -119,7 +119,7 @@ d) Beschlüsse über Satzungsänderungen und über die Auflösung des Vereins be
 In allen anderen Fällen genügt die einfache Mehrheit.  
   
 e) Jedes Mitglied hat eine Stimme.  
-Juristische Personen haben einen Stimmberechtigten schriftlich zu bestellen.  
+Juristische Personen haben einen Stimmberechtigten in Textform zu bestellen.
   
 f) Jedes ordentliche Mitglied kann sich durch ein anderes, anwesendes ordentliches Mitglied vertreten lassen.  
 Jedes anwesende ordentliche Mitglied kann, zusätzlich zu seiner eigenen Stimme, die Stimme maximal eines weiteren ordentlichen Mitglieds in Vertretung übernehmen.  
