@@ -140,15 +140,14 @@ Es können zwei stellvertretende Vorsitzende (“stellvertretender Vorstand”) 
   
 b) In den Vorstand dürfen nur natürliche Personen gewählt werden.  
   
-c) Der Verein wird gerichtlich und aussergerichtlich durch den Vorsitzenden oder durch zwei Mitglieder des Vorstandes gemeinsam vertreten.  
+c) Der Verein wird gerichtlich und aussergerichtlich durch ein Mitglied des Vorstandes vertreten.  
   
 d) Sind mehr als zwei Vorstandsmitglieder dauernd an der Ausübung ihres Amtes gehindert, so sind unverzüglich Nachwahlen anzuberaumen  
   
 e) Die Amtsdauer der Vorstandsmitglieder beträgt zwei Jahre.  
 Wiederwahl ist zulässig.  
   
-f) Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB bei Rechtsgeschäften bis zu einem Höchstbetrag von 1500 EURO.  
-Bei Rechtsgeschäften über 1500 EURO ist die Vertretung durch zwei Vorstandsmitglieder erforderlich.  
+f) Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB
   
 g) Der Schatzmeister überwacht die Haushaltsführung und verwaltet das Vermögen des Vereins. Er hat auf eine sparsame und wirtschaftliche Haushaltsführung hinzuwirken.  
 Mit dem Ablauf des Geschäftsjahres stellt er unverzüglich die Abrechnung, sowie die Vermögensübersicht und sonstige Unterlagen von wirtschaftlichem Belangen den Finanzprüfern des Vereins zur Prüfung zur Verfügung.  
