@@ -44,12 +44,19 @@ i. Austritt
 ii. den Tod von natürlichen Personen  
 iii. Auflösung und Erlöschung von juristischen Personen  
 iv. Ausschluss
-  
+v. Kündigung durch den Verein
+vi. durch Streichung von der Mitgliederliste
+
 d) Der Austritt erfolgt unter Einhaltung einer Kündigungsfrist gemäß Beitragsordnung durch Willenserklärung in Textform gegenüber dem Vorstand.
 
 e) Neben der aktiven (regulären) Mitgliedschaft ist eine passive Mitgliedschaft möglich.  
 Diese entspricht der regulären Mitgliedschaft mit der Ausnahme, dass passive Mitglieder kein Stimmrecht inne haben.  
 Andere Rechte und Pflichten bleiben hiervon unberührt.  
+
+f) Der Vorstand kann ein Mitglied von der Mitgliederliste streichen, wenn:
+i. die Mitgliedsbeiträge trotz Mahnung nicht gezahlt werden
+ii. der Wohnsitz ohne Mitteilung an den Verein gewechselt wurde
+iii. das Mitglied in Textform nicht mehr erreichbar ist
 
 ## §4 Rechte und Pflichten der Mitglieder
 
