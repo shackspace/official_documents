@@ -2,13 +2,19 @@
 
 # Current Members of the Board
 
-2020-11-08 -
+## 2022-03-20 - 
+
+* Rudolf Kraus (Vorsitzender)
+* Karlo Bartha (Schatzmeister)
+* nicht besetzt (Schriftführer)
+
+# Previous Members of the Board
+
+## 2020-11-08 - 2022-03-20
 
 * Felix Queißner (Vorsitzender)
 * Karlo Bartha (Schatzmeister)
 * Christoph Ziegler (Schriftführer)
-
-# Previous Members of the Board
 
 ## 2018-09-19 - 2020-11-08
 
