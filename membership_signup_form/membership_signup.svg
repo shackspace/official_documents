@@ -8,6 +8,9 @@
    version="1.1"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
    sodipodi:docname="membership_signup.svg"
+   inkscape:export-filename="membership_signup.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,13 +27,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="409.94516"
-     inkscape:cy="213.01592"
+     inkscape:zoom="4"
+     inkscape:cx="442.25"
+     inkscape:cy="72.875"
      inkscape:document-units="px"
      inkscape:current-layer="g3923"
      showgrid="false"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="3440"
      inkscape:window-height="1371"
@@ -377,13 +380,7 @@
              id="g1190">
             <g
                transform="matrix(1.25,0,0,1.25,65.34991,-5.302913)"
-               id="g3106">
-              <path
-                 id="path3108"
-                 style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                 d="M 260,89.891 H 400"
-                 inkscape:connector-curvature="0" />
-            </g>
+               id="g3106" />
             <g
                id="g1172">
               <g
@@ -445,7 +442,7 @@
              y="127.35641"
              id="tspan4324"
              dy="0"
-             style="font-size:18px;line-height:111%">dem verein shack als mitglied bei und erkenne die</tspan><tspan
+             style="font-size:18px;line-height:111%">dem verein shack e.V. als mitglied bei und erkenne die</tspan><tspan
              sodipodi:role="line"
              x="190.41844"
              y="147.33641"
@@ -519,7 +516,7 @@
            y="-35.527"
            x="400.37799"
            id="tspan4565"
-           sodipodi:role="line">shack beitrittserklärung v4.2 2022-08-07</tspan></text>
+           sodipodi:role="line">shack beitrittserklärung v4.3 2022-08-07</tspan></text>
       <text
          id="text4674"
          y="628.60321"
@@ -586,17 +583,6 @@
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#646464;fill-opacity:1;stroke:none"
            x="177.78685"
-           y="357.85324"
-           id="text4352"><tspan
-             sodipodi:role="line"
-             id="tspan4354"
-             x="177.78685"
-             y="357.85324"
-             style="font-size:14px;line-height:1.25">kontakt</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;text-align:end;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#646464;fill-opacity:1;stroke:none"
-           x="177.78685"
            y="432.54074"
            id="text4356"><tspan
              sodipodi:role="line"
@@ -625,7 +611,7 @@
              id="tspan4434"
              x="177.78685"
              y="519.14789"
-             style="font-size:14px;line-height:1.25">rhytmus</tspan></text>
+             style="font-size:14px;line-height:1.25">rhythmus</tspan></text>
         <g
            id="g6073"
            transform="translate(0,-5.7605139)">
@@ -921,16 +907,6 @@
                  d="m 416.42863,336.48912 220,0 0,25 -220,0 0,-25 z"
                  style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
                  id="path3236" />
-              <text
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1"
-                 y="359.48782"
-                 x="416.42856"
-                 id="text3238"><tspan
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   x="416.42856 418.92154 425.41956 427.41754 429.91055 432.40353 437.40753"
-                   y="359.48782"
-                   sodipodi:role="line"
-                   id="tspan3240">twitter</tspan></text>
               <g
                  id="g3242"
                  transform="matrix(1.25,0,0,1.25,16.428626,-155.87434)">
@@ -978,16 +954,6 @@
                style="fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none"
                d="m 191.42863,366.48912 445,0 0,25 -445,0 0,-25 z"
                inkscape:connector-curvature="0" />
-            <text
-               id="text3258"
-               x="191.42863"
-               y="389.48782"
-               style="line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1"><tspan
-                 id="tspan3260"
-                 sodipodi:role="line"
-                 y="389.48782"
-                 x="191.42863 193.42662 198.43968 203.44359 208.45665 213.46062 216.46666 218.95964 221.44365 223.93663 225.93462 230.43462 235.44762 237.93163 240.42467 242.90862 247.92162 249.91966 257.42563 259.91861 262.40262 264.8956"
-                 style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none">jabber / icq / aim / *</tspan></text>
             <g
                transform="matrix(1.25,0,0,1.25,16.428626,-155.87434)"
                id="g3262">
@@ -1024,6 +990,16 @@
                    y="603.48822"
                    sodipodi:role="line"
                    id="tspan1033" /></text>
+              <text
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway"
+                 y="396.0484"
+                 x="190.65903"
+                 id="text3272-7"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   x="190.65903 190.65903 190.65903 190.65903 195.66306 200.67599 202.67404 205.16696 212.67307 214.67099 219.68399 224.68802 229.70102 232.707 234.70505 239.71799 244.72202 247.728 249.73502 254.73898 259.75204 264.75601 267.24902 272.25302 277.26602 280.272 282.80356 287.80762 292.82056 297.32056 302.32458 304.81757 309.31757 311.31555 313.32257 317.82257 322.82654 327.8396 330.32361 334.82361 339.83655 342.84259 345.32654 348.33252 353.34558 355.82959 360.84253"
+                   y="396.0484 396.0484 396.0484 396.0484"
+                   sodipodi:role="line"
+                   id="tspan1033-35" /></text>
               <g
                  id="g3276"
                  transform="matrix(1.25,0,0,1.25,240.42863,-265.87434)">
@@ -1242,6 +1218,50 @@
              id="tspan5500"
              sodipodi:role="line"
              style="font-size:14px;line-height:1.25">unterschrift</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9px;line-height:1.25;font-family:sans-serif;stroke-width:1"
+           x="191.396"
+           y="392.33307"
+           id="text864"><tspan
+             sodipodi:role="line"
+             id="tspan862"
+             x="191.396"
+             y="392.33307"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1;stroke-width:1">telegram / matrix / jabber / irc / icq / *</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9px;line-height:0;font-family:sans-serif"
+           x="416.703"
+           y="354.71701"
+           id="text1456"><tspan
+             sodipodi:role="line"
+             id="tspan1454"
+             x="416.703"
+             y="354.71701"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1">yt / twitter / mastodon / *</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9px;line-height:0;font-family:sans-serif"
+           x="416.496"
+           y="347.177"
+           id="text1456-9"><tspan
+             sodipodi:role="line"
+             id="tspan1454-1"
+             x="416.496"
+             y="347.177"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1">social media</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:9px;line-height:0;font-family:sans-serif"
+           x="191.43616"
+           y="384.7865"
+           id="text1456-9-2"><tspan
+             sodipodi:role="line"
+             id="tspan1454-1-7"
+             x="191.43616"
+             y="384.7865"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1">messenger</tspan></text>
       </g>
       <g
          id="g3837">
@@ -1387,25 +1407,25 @@
                  id="g5997">
                 <path
                    inkscape:connector-curvature="0"
-                   d="m 415.42863,976.48917 h 220 v 50.00003 h -220 z"
+                   d="m 416.363,976.48914 h 220 v 50.00006 h -220 z"
                    style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.41421"
                    id="path4696" />
                 <text
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                    y="1023.2881"
-                   x="415.42856"
+                   x="417.42856"
                    id="text4698"><tspan
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      sodipodi:role="line"
                      id="tspan4700"
                      y="1023.2881"
-                     x="415.42856 420.43259 425.44553 427.44357 429.93649 437.4426 439.44052 444.45352 449.45755 454.47055 457.47653 459.47458 464.48752 469.49155 472.49753 474.50455 479.50851 484.52158 489.52554 492.01855 497.02255 502.03555 505.04153 507.57309 512.57715 517.59009 522.09009 527.09412 529.5871 534.0871 536.08508 538.0921 542.5921 547.59607 552.60913 555.09314 559.59314 564.60608 567.61212 570.09607 573.10205 578.11511 580.59912 585.61206">bei minderjährigen der gesetzliche vertreter</tspan></text>
+                     x="417.42856 422.43259 427.44553 429.44357 431.93649 439.4426 441.44052 446.45352 451.45755 456.47055 459.47653 461.47458 466.48752 471.49155 474.49753 476.50455 481.50851 486.52158 491.52554 494.01855 499.02255 504.03555 507.04153 509.57309 514.57715 519.59009 524.09009 529.09412 531.5871 536.0871 538.08508 540.0921 544.5921 549.59607 554.60913 557.09314 561.59314 566.60608 569.61212 572.09607 575.10205 580.11511 582.59912 587.61206">bei minderjährigen der gesetzliche vertreter</tspan></text>
                 <g
                    id="g4702"
                    transform="matrix(1.25,0,0,1.25,240.42863,154.12566)">
                   <path
                      inkscape:connector-curvature="0"
-                     d="M 140,697.89079 H 316"
+                     d="m 140.7491,697.81079 h 176"
                      style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                      id="path4704" />
                 </g>
@@ -1565,16 +1585,16 @@
                transform="translate(0,5.8214286)">
               <path
                  inkscape:connector-curvature="0"
-                 d="m 191.42863,922.48912 444.72315,0 0,25 -444.72315,0 0,-25 z"
-                 style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 d="m 191.42863,922.48912 h 445.023 v 25 h -445.023 z"
+                 style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00033"
                  id="path5652" />
               <g
                  id="g5658"
                  transform="matrix(3.8338202,0,0,1.25,-345.30621,690.12566)">
                 <path
                    inkscape:connector-curvature="0"
-                   d="m 140,205.891 116,0"
-                   style="fill:none;stroke:#000000;stroke-width:0.45680317;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                   d="M 140,205.891 H 256.07821"
+                   style="fill:none;stroke:#000000;stroke-width:0.456956;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    id="path5660" />
               </g>
               <text
@@ -1633,16 +1653,16 @@
                  id="g5921">
                 <path
                    id="path5642"
-                   style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   d="m 416.68548,891.48912 219.74315,0 0,25 -219.74315,0 0,-25 z"
+                   style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.00069"
+                   d="m 416.375,891.48912 h 220.043 v 25 H 416.375 Z"
                    inkscape:connector-curvature="0" />
                 <g
                    transform="matrix(1.8943375,0,0,1.25,-303.16277,604.12566)"
                    id="g5648">
                   <path
                      id="path5650"
-                     style="fill:none;stroke:#000000;stroke-width:0.64985478;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-                     d="m 380,249.891 116,0"
+                     style="fill:none;stroke:#000000;stroke-width:0.650308;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                     d="M 379.83346,249.891 H 495.99544"
                      inkscape:connector-curvature="0" />
                 </g>
                 <text
@@ -1679,15 +1699,15 @@
       <text
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway"
          y="1021.8964"
-         x="415.41135"
+         x="417.41135"
          id="text3272-9-8"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
            sodipodi:role="line"
            id="tspan3274-6-5"
-           x="415.41135"
+           x="417.41135"
            y="1021.8964">unterschrift</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           x="415.41135 420.41537 425.42831 427.42636 429.91928 437.42538 439.42331 444.43631 449.44034 454.45334 457.45932 459.45737 464.47031 469.47433 472.48032 474.48734 479.4913 484.50436 489.50833 492.00137 497.00534 502.01834 505.02432 507.55588 512.56 517.57294 522.07294 527.07697 529.56995 534.06995 536.06793 538.07495 542.57495 547.57892 552.59198 555.07599 559.57599 564.58893 567.59497 570.07892 573.0849 578.09796 580.58197 585.59491"
+           x="417.41135 422.41537 427.42831 429.42636 431.91928 439.42538 441.42331 446.43631 451.44034 456.45334 459.45932 461.45737 466.47031 471.47433 474.48032 476.48734 481.4913 486.50436 491.50833 494.00137 499.00534 504.01834 507.02432 509.55588 514.56 519.57294 524.07294 529.07697 531.56995 536.06995 538.06793 540.07495 544.57495 549.57892 554.59198 557.07599 561.57599 566.58893 569.59497 572.07892 575.0849 580.09796 582.58197 587.59491"
            y="1021.8964"
            sodipodi:role="line"
            id="tspan1033-3-6" /></text>
@@ -1701,6 +1721,13 @@
            id="tspan5594-4"
            x="416.45822"
            y="919.1507">bic</tspan></text>
+      <rect
+         style="fill:none;stroke:#ff0000;stroke-width:1.02011"
+         id="rect635"
+         width="176.11618"
+         height="26.156979"
+         x="388.32196"
+         y="81.497688" />
     </g>
   </g>
 </svg>
