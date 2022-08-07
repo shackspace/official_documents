@@ -2,19 +2,19 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="744.09448819"
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="membership_signup.svg">
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="membership_signup.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,19 +24,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="475.82879"
-     inkscape:cy="717.21012"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="409.94516"
+     inkscape:cy="213.01592"
      inkscape:document-units="px"
-     inkscape:current-layer="g6372"
+     inkscape:current-layer="g3923"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:window-width="1916"
-     inkscape:window-height="1041"
+     inkscape:window-width="3440"
+     inkscape:window-height="1371"
      inkscape:window-x="0"
-     inkscape:window-y="18"
-     inkscape:window-maximized="0">
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
     <sodipodi:guide
        orientation="1,0"
        position="191.42857,882.85714"
@@ -191,7 +194,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -395,26 +398,22 @@
                    id="text3102"
                    x="370.34991"
                    y="105.05926"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway">
-                  <tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"><tspan
                      id="tspan3104"
                      sodipodi:role="line"
                      y="105.05926"
                      x="370.34991 375.35391 380.35791 382.85092 387.85492"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none">datum</tspan>
-                </text>
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none">datum</tspan></text>
                 <text
                    id="text3522"
                    x="399.47379"
                    y="104.55926"
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway">
-                  <tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"><tspan
                      id="tspan3524"
                      sodipodi:role="line"
                      y="104.55926"
                      x="399.47379 411.70578 423.95978 430.0318 466.55179"
-                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">01. .</tspan>
-                </text>
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">01. .</tspan></text>
               </g>
             </g>
           </g>
@@ -440,19 +439,19 @@
              id="tspan4322"
              x="190.41844"
              y="107.3764"
-             style="font-size:18px;line-height:111.00000143%">hiermit trete ich zum</tspan><tspan
+             style="font-size:18px;line-height:111%">hiermit trete ich zum</tspan><tspan
              sodipodi:role="line"
              x="190.41844"
              y="127.35641"
              id="tspan4324"
              dy="0"
-             style="font-size:18px;line-height:111.00000143%">dem verein shack als mitglied bei und erkenne die</tspan><tspan
+             style="font-size:18px;line-height:111%">dem verein shack als mitglied bei und erkenne die</tspan><tspan
              sodipodi:role="line"
              x="190.41844"
              y="147.33641"
              id="tspan4326"
              dy="0"
-             style="font-size:18px;line-height:111.00000143%">satzung und die ziele des vereins an.</tspan></text>
+             style="font-size:18px;line-height:111%">satzung und die ziele des vereins an.</tspan></text>
       </g>
       <text
          id="text4507"
@@ -504,7 +503,7 @@
          x="191.42857"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:12px;line-height:111.00000143%"
+           style="font-size:12px;line-height:111%"
            id="tspan4553"
            y="810.2193"
            x="191.42857"
@@ -512,15 +511,15 @@
       <text
          transform="rotate(90)"
          id="text4563"
-         y="-41.027351"
-         x="400.37839"
+         y="-35.527"
+         x="400.37799"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            style="font-size:10px;line-height:1.25"
-           y="-41.027351"
-           x="400.37839"
+           y="-35.527"
+           x="400.37799"
            id="tspan4565"
-           sodipodi:role="line">shack beitrittserklärung v4.1 2015-01-31</tspan></text>
+           sodipodi:role="line">shack beitrittserklärung v4.2 2022-08-07</tspan></text>
       <text
          id="text4674"
          y="628.60321"
@@ -531,7 +530,7 @@
            y="628.60321"
            x="448.00266"
            sodipodi:role="line"
-           style="font-size:18px;line-height:1.11000001"> </tspan></text>
+           style="font-size:18px;line-height:1.11"> </tspan></text>
       <path
          inkscape:connector-curvature="0"
          id="path4724"
@@ -643,14 +642,12 @@
                  style="line-height:0%"
                  y="199.48784"
                  x="191.42863"
-                 id="text3116">
-                <tspan
+                 id="text3116"><tspan
                    style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="191.42863 195.92863 200.9326 203.93864 208.95164 213.95561 221.46165"
                    y="199.48784"
                    sodipodi:role="line"
-                   id="tspan3118">vorname</tspan>
-              </text>
+                   id="tspan3118">vorname</tspan></text>
               <g
                  id="g3120"
                  transform="matrix(1.25,0,0,1.25,16.428626,-55.874342)">
@@ -672,14 +669,12 @@
                  style="line-height:0%"
                  y="199.48784"
                  x="341.42862"
-                 id="text3126">
-                <tspan
+                 id="text3126"><tspan
                    style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="341.42862 346.43262 348.43961 352.93961 357.43961 362.4436 367.4566 374.96262"
                    y="199.48784"
                    sodipodi:role="line"
-                   id="tspan3128">nickname</tspan>
-              </text>
+                   id="tspan3128">nickname</tspan></text>
               <g
                  id="g3130"
                  transform="matrix(1.25,0,0,1.25,16.428626,-55.874342)">
@@ -701,14 +696,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="199.48784"
                  x="491.42862"
-                 id="text3136">
-                <tspan
+                 id="text3136"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="491.42862 496.43259 501.44565 508.95163"
                    y="199.48784"
                    sodipodi:role="line"
-                   id="tspan3138">name</tspan>
-              </text>
+                   id="tspan3138">name</tspan></text>
               <g
                  id="g3140"
                  transform="matrix(1.25,0,0,1.25,16.428626,-55.874342)">
@@ -734,14 +727,12 @@
                  style="line-height:0%"
                  y="234.48784"
                  x="191.42857"
-                 id="text3146">
-                <tspan
+                 id="text3146"><tspan
                    style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="191.42857 195.92857 198.42155 201.41856 206.43156 211.92155 216.93456 219.41856 222.42455 224.91759 229.92155 234.93456 239.93858 244.43858 249.45152 254.45555 261.96152 269.46753 274.48053"
                    y="234.48784"
                    sodipodi:role="line"
-                   id="tspan3148">straße - hausnummer</tspan>
-              </text>
+                   id="tspan3148">straße - hausnummer</tspan></text>
               <g
                  id="g3150"
                  transform="matrix(1.25,0,0,1.25,16.428626,-75.874342)">
@@ -763,14 +754,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="234.48784"
                  x="416.42856"
-                 id="text3156">
-                <tspan
+                 id="text3156"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="416.42856 421.43256 423.43054"
                    y="234.48784"
                    sodipodi:role="line"
-                   id="tspan3158">plz</tspan>
-              </text>
+                   id="tspan3158">plz</tspan></text>
               <g
                  id="g3160"
                  transform="matrix(1.25,0,0,1.25,16.428626,-75.874342)">
@@ -792,14 +781,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="234.48784"
                  x="491.42856"
-                 id="text3166">
-                <tspan
+                 id="text3166"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="491.42856 496.43259 499.43857"
                    y="234.48784"
                    sodipodi:role="line"
-                   id="tspan3168">ort</tspan>
-              </text>
+                   id="tspan3168">ort</tspan></text>
               <g
                  id="g3170"
                  transform="matrix(1.25,0,0,1.25,16.428626,-75.874342)">
@@ -825,14 +812,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="269.48782"
                  x="191.42857"
-                 id="text3184">
-                <tspan
+                 id="text3184"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="191.42857 193.42656"
                    y="269.48782"
                    sodipodi:role="line"
-                   id="tspan3186">ja</tspan>
-              </text>
+                   id="tspan3186">ja</tspan></text>
               <g
                  id="g3188"
                  transform="matrix(1.25,0,0,1.25,16.428626,-95.874339)">
@@ -854,14 +839,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="269.48782"
                  x="221.42857"
-                 id="text3194">
-                <tspan
+                 id="text3194"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="221.42857 226.43254 231.44554 233.44359"
                    y="269.48782"
                    sodipodi:role="line"
-                   id="tspan3196">nein</tspan>
-              </text>
+                   id="tspan3196">nein</tspan></text>
               <g
                  id="g3198"
                  transform="matrix(1.25,0,0,1.25,16.428626,-95.874339)">
@@ -885,14 +868,12 @@
                id="text3212"
                x="191.42857"
                y="304.48782"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway">
-              <tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"><tspan
                  id="tspan3214"
                  sodipodi:role="line"
                  y="304.48782"
                  x="191.42857 196.4326 203.93858 208.95152 210.94957"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none">email</tspan>
-            </text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none">email</tspan></text>
             <g
                transform="matrix(1.25,0,0,1.25,16.428626,-115.87434)"
                id="g3216">
@@ -917,14 +898,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1"
                  y="359.48782"
                  x="191.42857"
-                 id="text3228">
-                <tspan
+                 id="text3228"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="191.42857 193.92155 198.92558 200.92357 205.9276 208.42058 213.42455"
                    y="359.48782"
                    sodipodi:role="line"
-                   id="tspan3230">telefon</tspan>
-              </text>
+                   id="tspan3230">telefon</tspan></text>
               <g
                  id="g3232"
                  transform="matrix(1.25,0,0,1.25,16.428626,-155.87434)">
@@ -946,14 +925,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1"
                  y="359.48782"
                  x="416.42856"
-                 id="text3238">
-                <tspan
+                 id="text3238"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="416.42856 418.92154 425.41956 427.41754 429.91055 432.40353 437.40753"
                    y="359.48782"
                    sodipodi:role="line"
-                   id="tspan3240">twitter</tspan>
-              </text>
+                   id="tspan3240">twitter</tspan></text>
               <g
                  id="g3242"
                  transform="matrix(1.25,0,0,1.25,16.428626,-155.87434)">
@@ -977,14 +954,12 @@
                id="text3248"
                x="191.42857"
                y="419.48795"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1">
-              <tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1"><tspan
                  id="tspan3250"
                  sodipodi:role="line"
                  y="419.48795"
                  x="191.42857 196.4326 201.43651 203.92955 208.93358"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none">datum</tspan>
-            </text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none">datum</tspan></text>
             <g
                transform="matrix(1.25,0,0,1.25,16.428626,-155.87434)"
                id="g3252">
@@ -1007,14 +982,12 @@
                id="text3258"
                x="191.42863"
                y="389.48782"
-               style="line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1">
-              <tspan
+               style="line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;fill:#646464;fill-opacity:1"><tspan
                  id="tspan3260"
                  sodipodi:role="line"
                  y="389.48782"
                  x="191.42863 193.42662 198.43968 203.44359 208.45665 213.46062 216.46666 218.95964 221.44365 223.93663 225.93462 230.43462 235.44762 237.93163 240.42467 242.90862 247.92162 249.91966 257.42563 259.91861 262.40262 264.8956"
-                 style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none">jabber / icq / aim / *</tspan>
-            </text>
+                 style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#646464;fill-opacity:1;fill-rule:nonzero;stroke:none">jabber / icq / aim / *</tspan></text>
             <g
                transform="matrix(1.25,0,0,1.25,16.428626,-155.87434)"
                id="g3262">
@@ -1033,28 +1006,31 @@
                transform="translate(1.0101525,0)">
               <path
                  inkscape:connector-curvature="0"
-                 d="m 415.42863,556.48912 220,0 0,25 -220,0 0,-25 z"
+                 d="m 415.42863,556.48912 220,0 0,50 -220,0 0,-20 z"
                  style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:none"
                  id="path3270" />
               <text
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
-                 y="579.48792"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway"
+                 y="603.48822"
                  x="415.42856"
-                 id="text3272">
-                <tspan
-                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                   x="415.42856 420.43259 425.44553 427.44357 429.93649 437.4426 439.44052 444.45352 449.45755 454.47055 457.47653 459.47458 464.48752 469.49155 472.49753 474.50455 479.50851 484.52158 489.52554 492.01855 497.02255 502.03555 505.04153 507.57309 512.57715 517.59009 522.09009 527.09412 529.5871 534.0871 536.08508 538.0921 542.5921 547.59607 552.60913 555.09314 559.59314 564.60608 567.61212 570.09607 573.10205 578.11511 580.59912 585.61206"
-                   y="579.48792"
+                 id="text3272"><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    sodipodi:role="line"
-                   id="tspan3274">bei minderjährigen der gesetzliche vertreter</tspan>
-              </text>
+                   id="tspan3274"
+                   y="603.48822"
+                   x="415.42856 420.43259 425.44553 427.44357 429.93649 437.4426 439.44052 444.45352 449.45755 454.47055 457.47653 459.47458 464.48752 469.49155 472.49753 474.50455 479.50851 484.52158 489.52554 492.01855 497.02255 502.03555 505.04153 507.57309 512.57715 517.59009 522.09009 527.09412 529.5871 534.0871 536.08508 538.0921 542.5921 547.59607 552.60913 555.09314 559.59314 564.60608 567.61212 570.09607 573.10205 578.11511 580.59912 585.61206">bei minderjährigen der gesetzliche vertreter</tspan><tspan
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   x="415.42856 420.43259 425.44553 427.44357 429.93649 437.4426 439.44052 444.45352 449.45755 454.47055 457.47653 459.47458 464.48752 469.49155 472.49753 474.50455 479.50851 484.52158 489.52554 492.01855 497.02255 502.03555 505.04153 507.57309 512.57715 517.59009 522.09009 527.09412 529.5871 534.0871 536.08508 538.0921 542.5921 547.59607 552.60913 555.09314 559.59314 564.60608 567.61212 570.09607 573.10205 578.11511 580.59912 585.61206"
+                   y="603.48822"
+                   sodipodi:role="line"
+                   id="tspan1033" /></text>
               <g
                  id="g3276"
                  transform="matrix(1.25,0,0,1.25,240.42863,-265.87434)">
                 <path
                    inkscape:connector-curvature="0"
-                   d="m 140,677.891 176,0"
-                   style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                   d="M 140,697.89085 H 316"
+                   style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                    id="path3278" />
               </g>
             </g>
@@ -1069,14 +1045,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="579.48792"
                  x="191.42857"
-                 id="text3290">
-                <tspan
+                 id="text3290"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="191.42857 196.4326 201.43651 203.92955 208.93358"
                    y="579.48792"
                    sodipodi:role="line"
-                   id="tspan3292">datum &amp; ort</tspan>
-              </text>
+                   id="tspan3292">datum &amp; ort</tspan></text>
               <g
                  id="g3294"
                  transform="matrix(1.25,0,0,1.25,16.428626,-235.87434)">
@@ -1102,14 +1076,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="524.48785"
                  x="191.42857"
-                 id="text3426">
-                <tspan
+                 id="text3426"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="191.42857 198.93456 203.93858 208.95158 213.95555 216.44859 218.44658 220.4536 224.9536"
                    y="524.48785"
                    sodipodi:role="line"
-                   id="tspan3428">monatlich</tspan>
-              </text>
+                   id="tspan3428">monatlich</tspan></text>
               <g
                  id="g3430"
                  transform="matrix(1.25,0,0,1.25,16.428626,-195.87434)">
@@ -1131,14 +1103,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="524.48785"
                  x="246.42857"
-                 id="text3436">
-                <tspan
+                 id="text3436"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="246.42857 248.42656 253.43956 258.44357 261.44955 263.45651 265.45456 269.95456"
                    y="524.48785"
                    sodipodi:role="line"
-                   id="tspan3438">jährlich</tspan>
-              </text>
+                   id="tspan3438">jährlich</tspan></text>
               <g
                  id="g3440"
                  transform="matrix(1.25,0,0,1.25,16.428626,-195.87434)">
@@ -1162,14 +1132,12 @@
                id="text3394"
                x="246.42857"
                y="474.48782"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway">
-              <tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"><tspan
                  id="tspan3396"
                  sodipodi:role="line"
                  y="474.48782"
                  x="246.42857 251.4326 254.43858 261.94455 266.95755 272.44754 274.45453 279.45856"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none">ermäßigt</tspan>
-            </text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none">ermäßigt</tspan></text>
             <g
                transform="matrix(1.25,0,0,1.25,16.428626,-195.87434)"
                id="g3398">
@@ -1183,14 +1151,12 @@
                id="text3402"
                x="246.42863"
                y="485.79373"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway">
-              <tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"><tspan
                  id="tspan3404"
                  sodipodi:role="line"
                  y="485.79373"
                  x="246.42863 253.93462 255.9326 260.94565 265.94962"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">mind. 9,60€</tspan>
-            </text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none">mind. 9,60€</tspan></text>
             <g
                id="g5838">
               <path
@@ -1202,14 +1168,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="474.48782"
                  x="191.42857"
-                 id="text3384">
-                <tspan
+                 id="text3384"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="191.42857 195.92857 200.9326 202.93053"
                    y="474.48782"
                    sodipodi:role="line"
-                   id="tspan3386">voll</tspan>
-              </text>
+                   id="tspan3386">voll</tspan></text>
               <g
                  id="g3388"
                  transform="matrix(1.25,0,0,1.25,16.428626,-195.87434)">
@@ -1223,14 +1187,12 @@
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                  y="485.48782"
                  x="191.42863"
-                 id="text3526">
-                <tspan
+                 id="text3526"><tspan
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                    x="191.42863 198.93462 200.9326 205.94566 210.94963 213.44261 215.92662"
                    y="485.48782"
                    sodipodi:role="line"
-                   id="tspan3528">mind. 24€</tspan>
-              </text>
+                   id="tspan3528">mind. 24€</tspan></text>
             </g>
           </g>
           <text
@@ -1239,31 +1201,31 @@
              x="415.4476"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
              xml:space="preserve"><tspan
-               style="font-size:12px;line-height:115.99999666%"
+               style="font-size:12px;line-height:116%"
                y="468.97546"
                x="415.4476"
                id="tspan4684"
                sodipodi:role="line">kontoverbindung des vereins</tspan><tspan
                dx="0 0 0 0 0 0 0 0 0 3.0304575"
                id="tspan4692"
-               style="font-size:12px;line-height:115.99999666%"
+               style="font-size:12px;line-height:116%"
                y="482.89548"
                x="415.4476"
                sodipodi:role="line">inhaber: shack e.V.</tspan><tspan
                dx="0 0 0 0 0 0 20.708124"
-               style="font-size:12px;line-height:115.99999666%"
+               style="font-size:12px;line-height:116%"
                id="tspan4686"
                y="496.81546"
                x="415.4476"
                sodipodi:role="line">iban: DE44 4306 0967 7016 8095 00</tspan><tspan
                dx="0 0 0 0 0 27.142847"
-               style="font-size:12px;line-height:115.99999666%"
+               style="font-size:12px;line-height:116%"
                id="tspan4688"
                y="510.73547"
                x="415.4476"
                sodipodi:role="line">bic: GENODEM1GLS</tspan><tspan
                dx="0 0 0 0 0 0 0 0 0 0 6.5659919"
-               style="font-size:12px;line-height:115.99999666%"
+               style="font-size:12px;line-height:116%"
                id="tspan4690"
                y="524.65546"
                x="415.4476"
@@ -1357,61 +1319,61 @@
              x="191.42857"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
              xml:space="preserve"><tspan
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                y="665.18652"
                x="191.42857"
                id="tspan4505"
                sodipodi:role="line">hiermit ermächtige ich den</tspan><tspan
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                id="tspan4619"
                y="678.50653"
                x="191.42857"
                sodipodi:role="line"> </tspan><tspan
                id="tspan4639"
                dy="1.6276122e-08"
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                y="691.82654"
                x="191.42857"
-               sodipodi:role="line">        shack e.V., ulmer straße 255, 70327 stuttgart</tspan><tspan
-               style="font-size:12px;line-height:111.00000143%"
+               sodipodi:role="line">        shack e.V., ulmer straße 300, 70327 stuttgart</tspan><tspan
+               style="font-size:12px;line-height:111%"
                id="tspan4621"
                y="705.14655"
                x="191.42857"
                sodipodi:role="line">        gläubiger-id: de70sha00000049634</tspan><tspan
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                id="tspan4623"
                y="718.46655"
                x="191.42857"
                sodipodi:role="line">        mandatsreferenz: <tspan
    id="tspan4633"
    style="font-style:italic">wird gesondert mitgeteilt</tspan></tspan><tspan
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                id="tspan4627"
                y="731.7865"
                x="191.42857"
                sodipodi:role="line"> </tspan><tspan
                id="tspan4641"
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                y="745.10651"
                x="191.42857"
                sodipodi:role="line">widerruflich die von mir zu entrichtenden mitgliedsbeiträge bei fälligkeit zu lasten</tspan><tspan
                id="tspan4652"
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                y="758.42651"
                x="191.42857"
                sodipodi:role="line">meines kontos durch lastschrift einzuziehen. wenn mein konto die erforderliche</tspan><tspan
                id="tspan4654"
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                y="771.74652"
                x="191.42857"
                sodipodi:role="line">deckung nicht aufweist, besteht seitens des kontoführenden kreditinstituts keine</tspan><tspan
                id="tspan4656"
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                y="785.06653"
                x="191.42857"
                sodipodi:role="line">verpflichtung zur einlösung. etwaige kosten wegen rücküberweisungen gehen zu</tspan><tspan
                id="tspan4658"
-               style="font-size:12px;line-height:111.00000143%"
+               style="font-size:12px;line-height:111%"
                y="798.38654"
                x="191.42857"
                sodipodi:role="line">meinen lasten. teileinlösungen werden im lastschriftverfahren nicht vorgenommen.</tspan></text>
@@ -1425,28 +1387,26 @@
                  id="g5997">
                 <path
                    inkscape:connector-curvature="0"
-                   d="m 415.42863,976.48917 220,0 0,25.00003 -220,0 0,-25.00003 z"
-                   style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                   d="m 415.42863,976.48917 h 220 v 50.00003 h -220 z"
+                   style="fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.41421"
                    id="path4696" />
                 <text
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
-                   y="999.48792"
+                   y="1023.2881"
                    x="415.42856"
-                   id="text4698">
-                  <tspan
+                   id="text4698"><tspan
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
-                     x="415.42856 420.43259 425.44553 427.44357 429.93649 437.4426 439.44052 444.45352 449.45755 454.47055 457.47653 459.47458 464.48752 469.49155 472.49753 474.50455 479.50851 484.52158 489.52554 492.01855 497.02255 502.03555 505.04153 507.57309 512.57715 517.59009 522.09009 527.09412 529.5871 534.0871 536.08508 538.0921 542.5921 547.59607 552.60913 555.09314 559.59314 564.60608 567.61212 570.09607 573.10205 578.11511 580.59912 585.61206"
-                     y="999.48792"
                      sodipodi:role="line"
-                     id="tspan4700">bei minderjährigen der gesetzliche vertreter</tspan>
-                </text>
+                     id="tspan4700"
+                     y="1023.2881"
+                     x="415.42856 420.43259 425.44553 427.44357 429.93649 437.4426 439.44052 444.45352 449.45755 454.47055 457.47653 459.47458 464.48752 469.49155 472.49753 474.50455 479.50851 484.52158 489.52554 492.01855 497.02255 502.03555 505.04153 507.57309 512.57715 517.59009 522.09009 527.09412 529.5871 534.0871 536.08508 538.0921 542.5921 547.59607 552.60913 555.09314 559.59314 564.60608 567.61212 570.09607 573.10205 578.11511 580.59912 585.61206">bei minderjährigen der gesetzliche vertreter</tspan></text>
                 <g
                    id="g4702"
                    transform="matrix(1.25,0,0,1.25,240.42863,154.12566)">
                   <path
                      inkscape:connector-curvature="0"
-                     d="m 140,677.891 176,0"
-                     style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+                     d="M 140,697.89079 H 316"
+                     style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
                      id="path4704" />
                 </g>
               </g>
@@ -1461,14 +1421,12 @@
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                    y="999.48792"
                    x="191.42857"
-                   id="text4708">
-                  <tspan
+                   id="text4708"><tspan
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="191.42857 196.4326 201.43651 203.92955 208.93358"
                      y="999.48792"
                      sodipodi:role="line"
-                     id="tspan4710">datum &amp; ort</tspan>
-                </text>
+                     id="tspan4710">datum &amp; ort</tspan></text>
                 <g
                    id="g4712"
                    transform="matrix(1.25,0,0,1.25,16.428626,184.12566)">
@@ -1491,14 +1449,12 @@
                  id="text5552"
                  x="191.42863"
                  y="839.48785"
-                 style="line-height:0%">
-                <tspan
+                 style="line-height:0%"><tspan
                    id="tspan5554"
                    sodipodi:role="line"
                    y="839.48785"
                    x="191.42863"
-                   style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none">vollständiger name des kontoinhabers</tspan>
-              </text>
+                   style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none">vollständiger name des kontoinhabers</tspan></text>
               <g
                  transform="matrix(3.8338202,0,0,1.25,-345.30621,584.12566)"
                  id="g5556">
@@ -1523,14 +1479,12 @@
                    style="line-height:0%"
                    y="874.48785"
                    x="191.42857"
-                   id="text5582">
-                  <tspan
+                   id="text5582"><tspan
                      style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="191.42857 195.92857 198.42155 201.41856 206.43156 211.92155 216.93456 219.41856 222.42455 224.91759 229.92155 234.93456 239.93858 244.43858 249.45152 254.45555 261.96152 269.46753 274.48053"
                      y="874.48785"
                      sodipodi:role="line"
-                     id="tspan5584">straße - hausnummer</tspan>
-                </text>
+                     id="tspan5584">straße - hausnummer</tspan></text>
                 <g
                    id="g5586"
                    transform="matrix(1.25,0,0,1.25,16.428626,564.12566)">
@@ -1552,14 +1506,22 @@
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                    y="874.48785"
                    x="416.42856"
-                   id="text5592">
-                  <tspan
+                   id="text5592"><tspan
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="416.42856 421.43256 423.43054"
                      y="874.48785"
                      sodipodi:role="line"
-                     id="tspan5594">plz</tspan>
-                </text>
+                     id="tspan5594">plz</tspan></text>
+                <text
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
+                   y="924.36517"
+                   x="410.01523"
+                   id="text5592-9"><tspan
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     sodipodi:role="line"
+                     id="tspan5594-8"
+                     x="410.01523"
+                     y="924.36517" /></text>
                 <g
                    id="g5596"
                    transform="matrix(1.25,0,0,1.25,16.428626,564.12566)">
@@ -1581,14 +1543,12 @@
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
                    y="874.48785"
                    x="491.42856"
-                   id="text5602">
-                  <tspan
+                   id="text5602"><tspan
                      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="491.42856 496.43259 499.43857"
                      y="874.48785"
                      sodipodi:role="line"
-                     id="tspan5604">ort</tspan>
-                </text>
+                     id="tspan5604">ort</tspan></text>
                 <g
                    id="g5606"
                    transform="matrix(1.25,0,0,1.25,16.428626,564.12566)">
@@ -1620,14 +1580,14 @@
               <text
                  id="text4541"
                  y="942.98376"
-                 x="199.62206"
+                 x="215.522"
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
                  xml:space="preserve"><tspan
                    y="942.98376"
-                   x="199.62206"
+                   x="215.522"
                    id="tspan4543"
                    sodipodi:role="line"
-                   style="font-size:18px;line-height:1.25">D E _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _</tspan></text>
+                   style="font-size:18px;line-height:1.25;fill:#505050;fill-opacity:1">|_ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _ _ _ | _ _</tspan></text>
             </g>
             <g
                id="g5969"
@@ -1643,14 +1603,22 @@
                    id="text5624"
                    x="191.42857"
                    y="914.48785"
-                   style="line-height:0%">
-                  <tspan
+                   style="line-height:0%"><tspan
                      id="tspan5626"
                      sodipodi:role="line"
                      style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
                      x="191.42857"
-                     y="914.48785">institut</tspan>
-                </text>
+                     y="914.48785">institut</tspan></text>
+                <text
+                   id="text5624-4"
+                   x="191.653"
+                   y="952.60754"
+                   style="line-height:0%"><tspan
+                     id="tspan5626-7"
+                     sodipodi:role="line"
+                     style="font-variant:normal;font-weight:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                     x="191.653"
+                     y="952.60754">iban</tspan></text>
                 <g
                    transform="matrix(1.25,0,0,1.25,16.428626,604.12566)"
                    id="g5628">
@@ -1680,19 +1648,59 @@
                 <text
                    id="text5666"
                    y="912.26947"
-                   x="427.47919"
+                   x="427.57901"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
                    xml:space="preserve"><tspan
                      y="912.26947"
-                     x="427.47919"
+                     x="427.57901"
                      id="tspan5668"
                      sodipodi:role="line"
-                     style="font-size:18px;line-height:1.25"> _ _ _ _  _ _ _ _ | _ _ _</tspan></text>
+                     style="font-size:18px;line-height:1.25;fill:#505050;fill-opacity:1">| _ _ _ _ | _ _ _ _ | _ _ _</tspan></text>
               </g>
             </g>
           </g>
         </g>
       </g>
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway"
+         y="581.12872"
+         x="416.43155"
+         id="text3272-9"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           sodipodi:role="line"
+           id="tspan3274-6"
+           x="416.43155"
+           y="581.12872">unterschrift</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="416.43155 421.43558 426.44852 428.44656 430.93948 438.44559 440.44351 445.45651 450.46054 455.47354 458.47952 460.47757 465.49051 470.49454 473.50052 475.50754 480.51151 485.52457 490.52853 493.02158 498.02554 503.03854 506.04453 508.57608 513.5802 518.59314 523.09314 528.09717 530.59015 535.09015 537.08813 539.09515 543.59515 548.59912 553.61218 556.09619 560.59619 565.60913 568.61517 571.09912 574.1051 579.11816 581.60217 586.61511"
+           y="581.12872"
+           sodipodi:role="line"
+           id="tspan1033-3" /></text>
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway"
+         y="1021.8964"
+         x="415.41135"
+         id="text3272-9-8"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           sodipodi:role="line"
+           id="tspan3274-6-5"
+           x="415.41135"
+           y="1021.8964">unterschrift</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           x="415.41135 420.41537 425.42831 427.42636 429.91928 437.42538 439.42331 444.43631 449.44034 454.45334 457.45932 459.45737 464.47031 469.47433 472.48032 474.48734 479.4913 484.50436 489.50833 492.00137 497.00534 502.01834 505.02432 507.55588 512.56 517.57294 522.07294 527.07697 529.56995 534.06995 536.06793 538.07495 542.57495 547.57892 552.59198 555.07599 559.57599 564.58893 567.59497 570.07892 573.0849 578.09796 580.58197 585.59491"
+           y="1021.8964"
+           sodipodi:role="line"
+           id="tspan1033-3-6" /></text>
+      <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Expressway;-inkscape-font-specification:Expressway"
+         y="919.1507"
+         x="416.45822"
+         id="text5592-4"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9px;line-height:1.25;font-family:Expressway;-inkscape-font-specification:Expressway;writing-mode:lr-tb;fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           sodipodi:role="line"
+           id="tspan5594-4"
+           x="416.45822"
+           y="919.1507">bic</tspan></text>
     </g>
   </g>
 </svg>
