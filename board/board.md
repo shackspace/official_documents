@@ -2,13 +2,21 @@
 
 # Current Members of the Board
 
-## 2022-03-20 - 
+## 2022-11-27 - 
+
+* Rudolf Kraus (Vorsitzender)
+* Jens Franik (Schatzmeister)
+* Christian Recktenwald (Schriftführer)
+* Karl Kaufmann (Beisitzer)
+* nicht besetzt (Beisitzer)
+
+# Previous Members of the Board
+
+## 2022-03-20 - 2022-11-27
 
 * Rudolf Kraus (Vorsitzender)
 * Karlo Barta (Schatzmeister)
 * nicht besetzt (Schriftführer)
-
-# Previous Members of the Board
 
 ## 2020-11-08 - 2022-03-20
 
