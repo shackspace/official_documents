@@ -6,9 +6,9 @@ Eine Aufnahmegbühr wird nicht erhoben.
 Jedes Mitglied zahlt für jeden angebrochenen Monat der Mitgliedschaft einen Beitrag.
 
 ## §2 Beitragshöhe
-a) Der Mitgliedsbeitrag beträgt mindestens 20 EURO pro Monat.  
+a) Der Mitgliedsbeitrag beträgt mindestens 24 EURO pro Monat.  
   
-b) Es gibt einen ermäßigten Beitrag in Höhe von mindestens 8 EURO pro Monat.  
+b) Es gibt einen ermäßigten Beitrag in Höhe von mindestens 9,60 EURO pro Monat.  
 Die in Anspruchnahme ist vom Vorstand zu genehmigen.
 
 ## §3 Beitragszahlung
